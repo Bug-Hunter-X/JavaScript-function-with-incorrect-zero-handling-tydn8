@@ -1,0 +1,1 @@
+This repository contains a JavaScript function with a subtle bug related to handling zero inputs. The function `myFunction` adds two numbers, but it incorrectly returns 0 if either input is 0. The solution demonstrates the correct way to handle zero inputs, returning the non-zero value.
